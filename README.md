@@ -1,8 +1,32 @@
-## Welcome to GitHub Pages
+## UCR Undergraduate Learning Assistants Program
+
+
+### Basic Information
+
+We are currently hiring ULAs for the following topic areas:
+
+- Software: CS 10A, 10B, 10C (formerly known as CS 10, 12, 14)
+- Algorithms: CS 111, 141
+- Embedded systems: CS 61
+
+During shifts, ULAs will sit in the help desk room (TBD in Winston Chung Hall), and tutor any drop-in students with questions about the course. The working hours for ULAs will be approximately 10 hours/week, broken up into 2-3 shifts (exact schedule TBD based on individual class schedules). The pay rate for ULAs is expected to be around $17/h.
+
+If selected, ULAs must enroll in CS190: Apprentice Teaching for Undergraduates in Fall'21. This is a weekly 1-hour seminar on computer science education worth 2 credits, and will discuss current best practices for CS education. For more information, see the [class website](link).
+
+
+### Application
+
+Submit your application through [Google Forms](https://forms.gle/SntoJWzCSxhSzpq58).
+**Deadline**: June 18, 2021
+
+
+### Formatting Info
 
 You can use the [editor on GitHub](https://github.com/ucr-ula/ucr-ula/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
 
 ### Markdown
 
