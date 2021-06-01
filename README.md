@@ -23,14 +23,13 @@ We are currently hiring ULAs for the following topic areas:
 
 ### ULA Responsibilities
 
-During shifts, ULAs will sit in the help desk room (TBD in Winston Chung Hall), and tutor any drop-in students with questions about the course. The working hours for ULAs will be approximately 10 hours/week, broken up into 2-3 shifts (exact schedule TBD based on the ULAs' individual class schedules). The pay rate for ULAs is expected to be around $17/h.
+During shifts, ULAs will sit in the help desk room (TBD in Winston Chung Hall), and tutor any drop-in students with questions about the course. The working hours for ULAs will be approximately 10 hours/week, broken up into 2-3 shifts (exact schedule TBD based on the ULAs' individual class schedules). The pay rate for ULAs is expected to be around $16/h.
 
 If selected, ULAs must enroll in CS190: Apprentice Teaching for Undergraduates in Fall'21. This is a weekly 1-hour seminar on computer science education worth 2 credits, taken S/NC, and will discuss current best practices for CS education. 
-//For more information, see the [class website](link).
 
 ### Application Process
 
-1. Submit your application through [Google Forms](https://forms.gle/SntoJWzCSxhSzpq58). **Deadline**: June 18, 2021
+1. Submit your application through [Google Forms](https://forms.gle/SntoJWzCSxhSzpq58). **Deadline: June 18, 2021**. The application form requests basic biographical information, a copy of your transcript, and several brief short-answer questions.
 2. Selected applicants will be contacted for a brief (30-minute) video interview. The applicant will be requested to prepare a 5-minute teaching demo on a topic given in advance.
 
 
