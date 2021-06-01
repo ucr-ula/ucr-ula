@@ -9,7 +9,7 @@ The UCR CS ULA program is launching in Fall 2021. The goals of the program are t
 - create a supportive environment for underrepresented groups in CS
 
 To do this, students will be hired and trained as undergraduate learning assistants (ULAs) to act as peer tutors for selected CSE classes.
-ULAs will provide open ``help desk'' hours at a specific location (TBD) in Winston Chung Hall, and support students with course content, homeworks, and labs.
+ULAs will provide open "help desk" hours at a specific location (TBD) in Winston Chung Hall, and support students with course content, homeworks, and labs.
 
 The UCR CS ULA program is managed by Prof. Jiasi Chen, with help from Profs. Paea LePendu, Mariam Salloum, Tamar Shinar, and Yihan Sun.
 
@@ -23,9 +23,10 @@ We are currently hiring ULAs for the following topic areas:
 
 ### ULA Responsibilities
 
-During shifts, ULAs will sit in the help desk room (TBD in Winston Chung Hall), and tutor any drop-in students with questions about the course. The working hours for ULAs will be approximately 10 hours/week, broken up into 2-3 shifts (exact schedule TBD based on individual class schedules). The pay rate for ULAs is expected to be around $17/h.
+During shifts, ULAs will sit in the help desk room (TBD in Winston Chung Hall), and tutor any drop-in students with questions about the course. The working hours for ULAs will be approximately 10 hours/week, broken up into 2-3 shifts (exact schedule TBD based on the ULAs' individual class schedules). The pay rate for ULAs is expected to be around $17/h.
 
-If selected, ULAs must enroll in CS190: Apprentice Teaching for Undergraduates in Fall'21. This is a weekly 1-hour seminar on computer science education worth 2 credits, and will discuss current best practices for CS education. For more information, see the [class website](link).
+If selected, ULAs must enroll in CS190: Apprentice Teaching for Undergraduates in Fall'21. This is a weekly 1-hour seminar on computer science education worth 2 credits, taken S/NC, and will discuss current best practices for CS education. 
+//For more information, see the [class website](link).
 
 ### Application Process
 
