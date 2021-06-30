@@ -9,7 +9,7 @@ The UCR CS ULA program is launching in Fall 2021. The goals of the program are t
 - create a supportive environment for underrepresented groups in CS
 
 To do this, students will be hired and trained as undergraduate learning assistants (ULAs) to act as peer tutors for selected CSE classes.
-ULAs will provide open "help desk" hours at a specific location (TBD) in Winston Chung Hall, and support students with course content, homeworks, and labs.
+ULAs will provide open "help desk" hours at a specific location (TBD) in Winston Chung Hall, and support students with course content, homeworks, labs, etc.
 
 The UCR CS ULA program is managed by Prof. Jiasi Chen, with help from Profs. Paea LePendu, Mariam Salloum, Tamar Shinar, and Yihan Sun.
 
@@ -23,52 +23,15 @@ We are currently hiring ULAs for the following topic areas:
 
 ### ULA Responsibilities
 
-During shifts, ULAs will sit in the help desk room (TBD in Winston Chung Hall), and tutor any drop-in students with questions about the course. The working hours for ULAs will be approximately 10 hours/week, broken up into 2-3 shifts (exact schedule TBD based on the ULAs' individual class schedules). The pay rate for ULAs is expected to be around $16/h.
+ULAs will have shifts in the help desk room (TBD in Winston Chung Hall), and tutor any drop-in students with questions about the course. ULAs will work for approximately 10 hours/week, broken up into 2-3 shifts (exact schedule TBD based on the ULAs' individual availability). The pay rate for ULAs is expected to be around $16-17/h, commensurate with other tutoring programs on campus.
 
-If selected, ULAs must enroll in CS190: Apprentice Teaching for Undergraduates in Fall'21. This is a weekly 1-hour seminar on computer science education worth 2 credits, taken S/NC, and will discuss current best practices for CS education. 
+If selected, ULAs must enroll in CS190: Apprentice Teaching for Undergraduates in Fall'21. This will be a weekly 1-hour seminar on computer science education worth 2 credits, taken S/NC, and will discuss current best practices for CS education. It will be led by Prof. Chen and modeled on similar courses (e.g., at [UCSB](https://ucsb-teaching-cs.github.io/w21/)).
 
 ### Application Process
 
-1. Submit your application through [Google Forms](https://forms.gle/SntoJWzCSxhSzpq58). **Deadline: June 18, 2021**. The application form requests basic biographical information, a copy of your transcript, and several brief short-answer questions.
-2. Selected applicants will be contacted for a brief (30-minute) video interview. The applicant will be requested to prepare a 5-minute teaching demo on a topic given in advance.
+1. Submit your application through [Google Forms](https://forms.gle/SntoJWzCSxhSzpq58). **Deadline: July 16, 2021**. The application form requests basic biographical information, a copy of your transcript, and several brief short-answer questions.
+2. Selected applicants will be contacted for a brief (30-minute) video interview, 1-2 weeks after the application deadline. The applicant will be requested to prepare a 5-minute teaching demo on a topic given in advance.
 
+### Contact
 
-### Formatting Info
-
-You can use the [editor on GitHub](https://github.com/ucr-ula/ucr-ula/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ucr-ula/ucr-ula/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Questions? Contact Prof. Chen via email at jiasi [at] cs [dot] ucr [dot] edu.
