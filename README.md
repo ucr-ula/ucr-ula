@@ -29,9 +29,9 @@ If selected, ULAs must enroll in CS190: Apprentice Teaching for Undergraduates i
 
 ### Application Process
 
-1. Submit your application through [Google Forms](https://forms.gle/SntoJWzCSxhSzpq58). **Deadline: July 16, 2021**. The application form requests basic biographical information, a copy of your transcript, and several brief short-answer questions.
+1. Submit your application through [Google Forms](https://forms.gle/SntoJWzCSxhSzpq58). **Deadline: Friday July 16, 2021**. The application form requests basic biographical information, a copy of your transcript, and several brief short-answer questions.
 2. Selected applicants will be contacted for a brief (30-minute) video interview, 1-2 weeks after the application deadline. The applicant will be requested to prepare a 5-minute teaching demo on a topic given in advance.
 
 ### Contact
 
-Questions? Contact Prof. Chen via email at jiasi [at] cs [dot] ucr [dot] edu.
+Questions? Concerns? Contact Prof. Chen via email at jiasi [at] cs [dot] ucr [dot] edu.
