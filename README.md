@@ -8,7 +8,7 @@ The UCR CS ULA program is launching in Fall 2021. The goals of the program are t
 - build a sense of community amongst undergraduate students
 - create a supportive environment for underrepresented groups in CS
 
-To do this, students will be hired and trained as undergraduate learning assistants (ULAs) to act as peer tutors for selected CSE classes.
+Towards this, students will be hired and trained as undergraduate learning assistants (ULAs) to act as peer tutors for selected CSE classes.
 ULAs will provide open "help desk" hours at a specific location (TBD) in Winston Chung Hall, and support students with course content, homeworks, labs, etc.
 
 The UCR CS ULA program is managed by Prof. Jiasi Chen, with help from Profs. Paea LePendu, Mariam Salloum, Tamar Shinar, and Yihan Sun.
