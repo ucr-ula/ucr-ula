@@ -1,6 +1,5 @@
 ## UCR CSE Undergraduate Learning Assistants Program
 
-
 ### Program Overview
 
 The UCR CS ULA program is launching in Fall 2021. The goals of the program are to:
@@ -34,4 +33,4 @@ If selected, ULAs must enroll in CS190: Apprentice Teaching for Undergraduates i
 
 ### Contact
 
-Questions? Concerns? Contact Prof. Chen via email at jiasi [at] cs [dot] ucr [dot] edu.
+Questions? Concerns? Contact Prof. Chen via email at "jiasi at cs dot ucr dot edu".
