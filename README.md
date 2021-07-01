@@ -20,7 +20,7 @@ We are currently hiring ULAs for the following topic areas:
 - Algorithms: CS 111, 141
 - Embedded systems: CS 61
 
-Strong applicants will be those who have done well in the classes they wish to tutor for, have good interpersonal skills, and are enthusiastic about tutoring and mentoring. Preference will be given to those who have taken the classes at UCR.
+Strong applicants will be those who have done well in their classes, have good interpersonal skills, and are enthusiastic about tutoring/mentoring. Preference will be given to those who have taken the classes at UCR.
 
 ### ULA Responsibilities
 
