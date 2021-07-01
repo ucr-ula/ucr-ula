@@ -22,7 +22,7 @@ We are currently hiring ULAs for the following topic areas:
 
 ### ULA Responsibilities
 
-ULAs will have shifts in the help desk room (TBD in Winston Chung Hall), and tutor any drop-in students with questions about the course. ULAs will work for approximately 10 hours/week, broken up into 2-3 shifts (exact schedule TBD based on the ULAs' individual availability). The pay rate for ULAs is expected to be around $16-17/h, commensurate with other tutoring programs on campus.
+ULAs will have shifts in the help desk room (TBD in Winston Chung Hall), and tutor any drop-in students with questions about the course. ULAs will work for approximately <span style="color:blue">10 hours/week</span>, broken up into 2-3 shifts (exact schedule TBD based on the ULAs' individual availability). The pay rate for ULAs is expected to be around $16-17/h, commensurate with other tutoring programs on campus.
 
 If selected, ULAs must enroll in CS190: Apprentice Teaching for Undergraduates in Fall'21. This will be a weekly 1-hour seminar on computer science education worth 2 credits, taken S/NC, and will discuss current best practices for CS education. It will be led by Prof. Chen and modeled on similar courses (e.g., at [UCSB](https://ucsb-teaching-cs.github.io/w21/)).
 
