@@ -30,7 +30,7 @@ If selected, ULAs must enroll in CS190: Apprentice Teaching for Undergraduates i
 
 ### Application Process
 
-1. Submit your application through [this form](https://forms.gle/SntoJWzCSxhSzpq58). **Deadline: Friday July 16, 2021**. The application form requests basic biographical information, a copy of your transcript, and several short-answer questions.
+1. Applications are now closed! **Deadline: Friday July 16, 2021**. The application form requests basic biographical information, a copy of your transcript, and several short-answer questions.
 2. Selected applicants will be contacted for a brief (30-minute) video interview, about 1 week after the application closes. The applicant will be requested to prepare a 5-minute teaching demo on a topic given in advance.
 
 ### Contact
