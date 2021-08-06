@@ -12,6 +12,10 @@ ULAs will provide open "help desk" hours at a specific location (TBD) in Winston
 
 The UCR CS ULA program is managed by Prof. Jiasi Chen with help from Profs. Paea LePendu, Mariam Salloum, Tamar Shinar, and Yihan Sun.
 
+### Updates
+
+- Aug. 5, 2021: Thanks for your patience. We are currently reviewing applications and expect to send interview invitations within the next few days.
+
 ### We're Hiring!
 
 We are currently hiring ULAs for the following topic areas:
