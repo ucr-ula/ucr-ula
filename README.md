@@ -14,7 +14,7 @@ ULAs will support the following classes in Fall'21:
 
 - Software: CS 10A, 10B, 10C (formerly known as CS 10, 12, 14)
 - Algorithms: CS 111, 141
-- Embedded systems: CS 61
+- Computer systems: CS 61
 
 The UCR CS ULA program is managed by Prof. Jiasi Chen with help from Profs. Paea LePendu, Mariam Salloum, Tamar Shinar, and Yihan Sun.
 
