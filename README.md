@@ -10,12 +10,20 @@ The UCR CS ULA program is launching in Fall 2021. The goals of the program are t
 Towards this, students will be hired and trained as undergraduate learning assistants (ULAs) to act as peer tutors for selected CSE classes.
 ULAs will provide open "help desk" hours at a specific location (TBD) in Winston Chung Hall, and assist students with course content, homeworks, labs, etc.
 
+ULAs will support the following classes in Fall'21:
+
+- Software: CS 10A, 10B, 10C (formerly known as CS 10, 12, 14)
+- Algorithms: CS 111, 141
+- Embedded systems: CS 61
+
 The UCR CS ULA program is managed by Prof. Jiasi Chen with help from Profs. Paea LePendu, Mariam Salloum, Tamar Shinar, and Yihan Sun.
 
 ### Updates
 
-- <span style="color:red">Aug. 5, 2021</span>: We are currently reviewing applications and expect to send interview invitations within the next few days. Thanks for your patience, and stay cool!
+- Aug. 5, 2021: We are currently reviewing applications and expect to send interview invitations within the next few days. Thanks for your patience, and stay cool!
 
+
+<!--
 ### We're Hiring!
 
 We are currently hiring ULAs for the following topic areas:
@@ -36,6 +44,8 @@ If selected, ULAs must enroll in CS190: Apprentice Teaching for Undergraduates i
 
 1. Applications are now closed! **Deadline: Friday July 16, 2021**. The application form requests basic biographical information, a copy of your transcript, and several short-answer questions.
 2. Selected applicants will be contacted for a brief (30-minute) video interview, about 1 week after the application closes. The applicant will be requested to prepare a 5-minute teaching demo on a topic given in advance.
+
+-->
 
 ### Contact
 
