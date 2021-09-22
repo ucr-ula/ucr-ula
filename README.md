@@ -28,7 +28,7 @@ The UCR CS ULA program is managed by Prof. Jiasi Chen with help from Profs. Paea
 
 ### Fall'21 ULAs
 
-|             | Name |
+| Picture            | Name |
 | ----------- | ----------- |
 |             | Aaron        |
 | ![Image of Brij](images/brij.jpg)      |  Brij: Hi! My names Brij and I’m a Junior studying Computer Science. I wanted to be a ULA, because I really like to teach and see the “spark” in people’s eyes when they finally understand something. I also have some prior tutoring experience, and really enjoyed it, so wanted to give it another shot in college. A random fact about me is that I can solve a Rubiks cube in under a minute.       |
