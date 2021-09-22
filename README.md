@@ -24,8 +24,7 @@ The UCR CS ULA program is managed by Prof. Jiasi Chen with help from Profs. Paea
 
 ### Calendar
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_3juuthfjpcffbk2tua1pj80sf8%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=Y18zanV1dGhmanBjZmZiazJ0dWExcGo4MHNmOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23D81B60&mode=WEEK&showTitle=0&showTabs=1&showCalendars=0&showTz=1" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 <!--
 ### We're Hiring!
