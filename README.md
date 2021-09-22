@@ -31,7 +31,8 @@ The UCR CS ULA program is managed by Prof. Jiasi Chen with help from Profs. Paea
 
 | Picture            | Name |
 | ----------- | ----------- |
-|             | **Aaron**        |
+|  ![Image of Aaron](images/aaron.jpg)           | **Aaron**: Hi! I'm Aaron Geesink, a senior in computer science at UCR. I'm graduating in the class of 2022 but plan on getting my masters degree in 2023. Even though I'm a senior, this year is my first year physically on campus, which will certainly be lots of fun! I decided to be a ULA because I find myself helping other students in my classes all the time. I seem to have figured out this whole college thing by now, so I want to use my knowledge to pay it forward to anyone willing to lend an ear.
+My random fact is that I'm a fanatic for japanese arcade games! I love to go Round1 after class and play Dance Dance Revolution and Beatmania all night!        |
 | ![Image of Brij](images/brij.jpg)      |  **Brij**: Hi! My name's Brij and I’m a Junior studying Computer Science. I wanted to be a ULA, because I really like to teach and see the “spark” in people’s eyes when they finally understand something. I also have some prior tutoring experience, and really enjoyed it, so wanted to give it another shot in college. A random fact about me is that I can solve a Rubiks cube in under a minute.       |
 |             | **Cody**        |
 | ![Image of Diane](images/diane.jpg)            | **Diane**: I am a third year computer science major and I wanted to be a ULA because helping people is lots of fun and I was in the same boat before as well! A random fact about me is that my hearing is not very good so one of the words I most often say is "huh".       |
