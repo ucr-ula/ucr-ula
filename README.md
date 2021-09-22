@@ -22,6 +22,10 @@ The UCR CS ULA program is managed by Prof. Jiasi Chen with help from Profs. Paea
 
 - Aug. 5, 2021: We are currently reviewing applications and expect to send interview invitations within the next few days. Thanks for your patience, and stay cool!
 
+### Calendar
+
+<iframe src="https://calendar.google.com/calendar/embed?src=c_3juuthfjpcffbk2tua1pj80sf8%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 
 <!--
 ### We're Hiring!
