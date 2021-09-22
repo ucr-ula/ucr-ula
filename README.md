@@ -20,6 +20,7 @@ The UCR CS ULA program is managed by Prof. Jiasi Chen with help from Profs. Paea
 
 ### Updates
 
+- Sept. 21, 2021: Things are chugging along! ULA help desk sessions will start in week 2 of Fall'21. Keep checking the calendar below for updates.
 - Aug. 5, 2021: We are currently reviewing applications and expect to send interview invitations within the next few days. Thanks for your patience, and stay cool!
 
 ### Calendar
