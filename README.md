@@ -30,40 +30,15 @@ The UCR CS ULA program is managed by Prof. Jiasi Chen with help from Profs. Paea
 
 |             | Name |
 | ----------- | ----------- |
-|             | Aaron Geesink        |
-| ![Image of Brij Shah](images/brij.jpg)      | ** Brij Shah**: Hi! My names Brij and I’m a Junior studying Computer Science. I wanted to be a ULA, because I really like to teach and see the “spark” in people’s eyes when they finally understand something. I also have some prior tutoring experience, and really enjoyed it, so wanted to give it another shot in college. A random fact about me is that I can solve a Rubiks cube in under a minute.       |
-
-
-- **Aaron Geesink**
-
-- **Brij Shah**: Hi! My names Brij and I’m a Junior studying Computer Science. I wanted to be a ULA, because I really like to teach and see the “spark” in people’s eyes when they finally understand something. I also have some prior tutoring experience, and really enjoyed it, so wanted to give it another shot in college. A random fact about me is that I can solve a Rubiks cube in under a minute. ![Image of Brij Shah](images/brij.jpg)
-
-- **Cody Kurpanek**
-
-- Diane Shan
-I am a third year computer science major and I wanted to be a ULA because helping people is lots of fun and I was in the same boat before as well! A random fact about me is that my hearing is not very good so one of the words I most often say is "huh".
-
-- Edgarventura Melendrez
-My name is Edgarventura Melendrez, but I usually only go by Edgar. I'm a second year Computers Science major who upon finding himself lost trying to navigate college life, found himself being helped by all kinds of people such as professors, counselors, and even other students. Which is why I really wanted to become a ULA, because I wanted nothing more than to return a little bit of the kindness I received back into the UCR community. A little fun fact about myself is that over the pandemic I began teaching myself how to play the harmonica, and so far I've been enjoying it quite a lot!
-
-- Gabriel Ruelas
-
-- Joshua Candelaria
-
-Hi! My name is Joshua Candelaria and I'm a sophomore computer science major. I wanted to be a ULA because I enjoy teaching and helping others, and I have a passion for what we're learning in these classes. A random fact about me is that I am a huge basketball nerd. 
-
-- Taneesha Sharma
-
-- Yuta Nakamura
-Major: Computer Science
-
-Class Year: First Year Master's
-
-Reason: I really like helping people and seeing them succeed! I look forward to seeing you all!
-
-Random Fact: I used to do a lot of Japanese Archery, and I was also selected as part of Team USA for the third world cup!
-
-
+|             | Aaron        |
+| ![Image of Brij](images/brij.jpg)      |  Brij: Hi! My names Brij and I’m a Junior studying Computer Science. I wanted to be a ULA, because I really like to teach and see the “spark” in people’s eyes when they finally understand something. I also have some prior tutoring experience, and really enjoyed it, so wanted to give it another shot in college. A random fact about me is that I can solve a Rubiks cube in under a minute.       |
+|             | Cody        |
+| ![Image of Diane](images/diane.jpg)            | Diane: I am a third year computer science major and I wanted to be a ULA because helping people is lots of fun and I was in the same boat before as well! A random fact about me is that my hearing is not very good so one of the words I most often say is "huh".       |
+| ![Image of Edgar](images/edgar.jpg)            | Edgarventura: My name is Edgarventura Melendrez, but I usually only go by Edgar. I'm a second year Computers Science major who upon finding himself lost trying to navigate college life, found himself being helped by all kinds of people such as professors, counselors, and even other students. Which is why I really wanted to become a ULA, because I wanted nothing more than to return a little bit of the kindness I received back into the UCR community. A little fun fact about myself is that over the pandemic I began teaching myself how to play the harmonica, and so far I've been enjoying it quite a lot!        |
+|             | Gabriel        |
+| ![Image of Joshua](images/joshua.jpg)            | Joshua: Hi! My name is Joshua Candelaria and I'm a sophomore computer science major. I wanted to be a ULA because I enjoy teaching and helping others, and I have a passion for what we're learning in these classes. A random fact about me is that I am a huge basketball nerd.         |
+|             | Taneesha:         |
+| ![Image of Yuta](images/yuta.jpg)            | Yuta: My major is Computer Science, and I'm a first year Master's student. I joined the ULA program because I really like helping people and seeing them succeed! I look forward to seeing you all! A random fact is I used to do a lot of Japanese Archery, and I was also selected as part of Team USA for the third world cup!       |
 
 
 <!--
