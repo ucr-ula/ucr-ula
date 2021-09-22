@@ -28,12 +28,11 @@ The UCR CS ULA program is managed by Prof. Jiasi Chen with help from Profs. Paea
 
 ### Fall'21 ULAs
 
-- Aaron Geesink
+- **Aaron Geesink**
 
-#### Brij Shah
-Hi! My names Brij and I’m a Junior studying Computer Science. I wanted to be a ULA, because I really like to teach and see the “spark” in people’s eyes when they finally understand something. I also have some prior tutoring experience, and really enjoyed it, so wanted to give it another shot in college. A random fact about me is that I can solve a Rubiks cube in under a minute.
+- **Brij Shah**: Hi! My names Brij and I’m a Junior studying Computer Science. I wanted to be a ULA, because I really like to teach and see the “spark” in people’s eyes when they finally understand something. I also have some prior tutoring experience, and really enjoyed it, so wanted to give it another shot in college. A random fact about me is that I can solve a Rubiks cube in under a minute. ![Image of Brij Shah](images/brij.jpg)
 
-- Cody Kurpanek
+- **Cody Kurpanek**
 
 - Diane Shan
 I am a third year computer science major and I wanted to be a ULA because helping people is lots of fun and I was in the same boat before as well! A random fact about me is that my hearing is not very good so one of the words I most often say is "huh".
