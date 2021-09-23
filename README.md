@@ -20,7 +20,7 @@ Are you a UCR undergraduate student who wants help for one of the following cour
 - Algorithms: CS 111, 141
 - Computer systems: CS 61
 
-ULAs are ready to help! Just drop in to one of their sessions listed below in the Calendar. No registration required.
+Your friendly neighborhood ULAs are ready to help! Just drop in to one of their sessions listed in the Calendar below. No advance registration required.
 
 ### Updates
 
