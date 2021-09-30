@@ -1,4 +1,4 @@
-## UCR CSE Undergraduate Learning Assistants Program
+## UCR CSE Undergraduate Learning Assistants
 
 ### Who is the ULA Program For?
 
