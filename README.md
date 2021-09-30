@@ -14,7 +14,7 @@ The UCR CS ULA program is managed by Prof. Jiasi Chen with help from Profs. Paea
 
 ### Who This Is For
 
-**Are you a UCR undergraduate student who wants help for one of the following courses?
+**Are you a UCR undergraduate student who wants help for one of the following courses?**
 
 - <span style="color:magenta">Software: CS 10A, 10B, 10C </span> (formerly known as CS 10, 12, 14)
 - <span style="color:blue">Algorithms: CS 111, 141 </span>
