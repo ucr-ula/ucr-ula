@@ -1,5 +1,19 @@
 ## UCR CSE Undergraduate Learning Assistants Program
 
+### Who is the ULA Program For?
+
+**Are you a UCR undergraduate student who wants help for one of the following courses?**
+
+- <span style="color:magenta">Software: CS 10A, 10B, 10C </span> (formerly known as CS 10, 12, 14)
+- <span style="color:blue">Algorithms: CS 111, 141 </span>
+- <span style="color:orange">Computer systems: CS 61 </span>
+
+**Your friendly neighborhood ULAs are ready to help! Just drop in to one of their sessions listed in the Calendar below. It's free, and no advance registration required.**
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&mode=WEEK&showTitle=0&src=Y19pdHVkMDNzY2s3cmduZnY2NnA5cHNrbGNuZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19lb20wZWE4dm1pZzJwdGtmcDBqdWEwOXA1a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y18zanV1dGhmanBjZmZiazJ0dWExcGo4MHNmOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%233F51B5&color=%23F4511E&color=%23D81B60" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+<!--<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=Y18zanV1dGhmanBjZmZiazJ0dWExcGo4MHNmOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23D81B60&mode=WEEK&showTitle=0&showTabs=1&showCalendars=0&showTz=1" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>-->
+
 ### Program Overview
 
 The UCR CS ULA program is launching in Fall 2021. The goals of the program are to:
@@ -11,24 +25,6 @@ Towards this, students will be hired and trained as undergraduate learning assis
 ULAs will provide open "help desk" hours at a specific location (TBD) in Winston Chung Hall, and assist students with course content, homeworks, labs, etc.
 
 The UCR CS ULA program is managed by Prof. Jiasi Chen with help from Profs. Paea LePendu, Mariam Salloum, Tamar Shinar, and Yihan Sun.
-
-### Who This Is For
-
-**Are you a UCR undergraduate student who wants help for one of the following courses?**
-
-- <span style="color:magenta">Software: CS 10A, 10B, 10C </span> (formerly known as CS 10, 12, 14)
-- <span style="color:blue">Algorithms: CS 111, 141 </span>
-- <span style="color:orange">Computer systems: CS 61 </span>
-
-**Your friendly neighborhood ULAs are ready to help! Just drop in to one of their sessions listed in the Calendar below. It's free, and no advance registration required.**
-
-&nbsp;
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&mode=WEEK&showTitle=0&src=Y19pdHVkMDNzY2s3cmduZnY2NnA5cHNrbGNuZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19lb20wZWE4dm1pZzJwdGtmcDBqdWEwOXA1a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y18zanV1dGhmanBjZmZiazJ0dWExcGo4MHNmOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%233F51B5&color=%23F4511E&color=%23D81B60" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-<!--<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=Y18zanV1dGhmanBjZmZiazJ0dWExcGo4MHNmOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23D81B60&mode=WEEK&showTitle=0&showTabs=1&showCalendars=0&showTz=1" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>-->
-
-
 
 
 ### Updates
