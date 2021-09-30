@@ -29,7 +29,9 @@ Your friendly neighborhood ULAs are ready to help! Just drop in to one of their 
 
 ### Calendar
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=Y18zanV1dGhmanBjZmZiazJ0dWExcGo4MHNmOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23D81B60&mode=WEEK&showTitle=0&showTabs=1&showCalendars=0&showTz=1" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&mode=WEEK&showTitle=0&src=Y19pdHVkMDNzY2s3cmduZnY2NnA5cHNrbGNuZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19lb20wZWE4dm1pZzJwdGtmcDBqdWEwOXA1a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y18zanV1dGhmanBjZmZiazJ0dWExcGo4MHNmOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%233F51B5&color=%23F4511E&color=%23D81B60" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+<!--<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=Y18zanV1dGhmanBjZmZiazJ0dWExcGo4MHNmOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23D81B60&mode=WEEK&showTitle=0&showTabs=1&showCalendars=0&showTz=1" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>-->
 
 &nbsp;
 
