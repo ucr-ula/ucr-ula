@@ -24,6 +24,7 @@ Your friendly neighborhood ULAs are ready to help! Just drop in to one of their 
 
 ### Updates
 
+- Sept. 30, 2021: ULA schedules are posted! Please see the schedule embedded below. ULA hours are held outside Bytes cafe, or online through Zoom. <span style="color:magenta">Software is in purple</span>, <span style="color:blue">algorithms is in blue</span>, and <span style="color:orange">computer systems is in orange</span>.
 - Sept. 21, 2021: ULA help desk sessions will start in week 2 of Fall'21. Keep checking the calendar below for updates on when ULAs will be staffing the help desk.
 - Aug. 5, 2021: We are currently reviewing applications and expect to send interview invitations within the next few days. Thanks for your patience, and stay cool!
 
