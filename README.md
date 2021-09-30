@@ -22,19 +22,20 @@ The UCR CS ULA program is managed by Prof. Jiasi Chen with help from Profs. Paea
 
 **Your friendly neighborhood ULAs are ready to help! Just drop in to one of their sessions listed in the Calendar below. It's free, and no advance registration required.**
 
-### Updates
-
-- **Sept. 30, 2021:** ULA schedules are posted below, starting Oct. 4! ULA hours will be held outside Bytes cafe, or online through Zoom. <span style="color:magenta">Software is in purple</span>, <span style="color:blue">algorithms is in blue</span>, and <span style="color:orange">computer systems is in orange</span>.
-- **Sept. 21, 2021:** ULA help desk sessions will start in week 2 of Fall'21. Keep checking the calendar below for updates on when ULAs will be staffing the help desk.
-- **Aug. 5, 2021:** We are currently reviewing applications and expect to send interview invitations within the next few days. Thanks for your patience, and stay cool!
-
-### Calendar
+&nbsp;
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&mode=WEEK&showTitle=0&src=Y19pdHVkMDNzY2s3cmduZnY2NnA5cHNrbGNuZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19lb20wZWE4dm1pZzJwdGtmcDBqdWEwOXA1a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y18zanV1dGhmanBjZmZiazJ0dWExcGo4MHNmOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%233F51B5&color=%23F4511E&color=%23D81B60" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 <!--<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=Y18zanV1dGhmanBjZmZiazJ0dWExcGo4MHNmOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23D81B60&mode=WEEK&showTitle=0&showTabs=1&showCalendars=0&showTz=1" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>-->
 
-&nbsp;
+
+
+
+### Updates
+
+- **Sept. 30, 2021:** ULA schedules are posted below, starting Oct. 4! ULA hours will be held outside Bytes cafe, or online through Zoom. <span style="color:magenta">Software is in purple</span>, <span style="color:blue">algorithms is in blue</span>, and <span style="color:orange">computer systems is in orange</span>.
+- **Sept. 21, 2021:** ULA help desk sessions will start in week 2 of Fall'21. Keep checking the calendar below for updates on when ULAs will be staffing the help desk.
+- **Aug. 5, 2021:** We are currently reviewing applications and expect to send interview invitations within the next few days. Thanks for your patience, and stay cool!
 
 ### Fall'21 ULAs
 
