@@ -1,6 +1,6 @@
 ## UCR CSE Undergraduate Learning Assistants
 
-### Are you a UCR CSE undergrad who wants help in one of these courses?
+### Are you an undergrad who wants help in one of these CSE courses?
 
 - <span style="color:magenta">Software: CS 10A, 10B, 10C </span> (formerly known as CS 10, 12, 14)
 - <span style="color:blue">Algorithms: CS 111, 141 </span>
