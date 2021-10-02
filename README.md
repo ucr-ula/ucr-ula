@@ -6,7 +6,7 @@
 - <span style="color:blue">Algorithms: CS 111, 141 </span>
 - <span style="color:orange">Computer systems: CS 61 </span>
 
-Your friendly neighborhood ULAs are ready to help! Just drop in to one of their help desk hours listed in the Calendar below with any questions you have. **It's free, and no advance registration required.** Some sessions are held online through Zoom, and others outside Bytes cafe.
+Your friendly neighborhood ULAs are ready to help! Just drop in to one of their help desk hours listed in the Calendar below with any questions you have. **It's free, and no advance registration required.** Some sessions are held online through Zoom, and others outside [Bytes cafe](https://campusmap.ucr.edu/?find=Bytes) (the cafe on the ground level of Winston Chung Hall).
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&mode=WEEK&showTitle=0&src=Y19pdHVkMDNzY2s3cmduZnY2NnA5cHNrbGNuZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19lb20wZWE4dm1pZzJwdGtmcDBqdWEwOXA1a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y18zanV1dGhmanBjZmZiazJ0dWExcGo4MHNmOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%233F51B5&color=%23F4511E&color=%23D81B60" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
