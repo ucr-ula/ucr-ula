@@ -15,7 +15,7 @@ Your friendly neighborhood ULAs are ready to help! Just drop in to one of their 
 
 ### CS 111, 141 Calendar
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&showPrint=0&mode=WEEK&showTabs=0&showCalendars=0&src=Y18zanV1dGhmanBjZmZiazJ0dWExcGo4MHNmOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23D81B60" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&showPrint=0&mode=WEEK&showTabs=0&showCalendars=0&src=Y19pdHVkMDNzY2s3cmduZnY2NnA5cHNrbGNuZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%233F51B5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
 ### CS 61 Calendar
