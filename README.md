@@ -6,7 +6,7 @@
 - <span style="color:blue">Algorithms: CS 111, 141 </span>
 - <span style="color:orange">Computer systems: CS 61 </span>
 
-Your friendly neighborhood ULAs are ready to help! Just drop in to one of their help desk hours listed in the Calendar below with any questions you have. **It's free, and no advance registration required.** Sessions are held online through Zoom and will start in **Week 3 of the Winter 2022 quarter on Jan. 18, 2022** (click forward on the Google Calendar below).
+Your friendly neighborhood ULAs are ready to help! Just drop in to one of their help desk hours listed in the Calendar below with any questions you have. **It's free, and no advance registration required.** Sessions are held online through Zoom and will start in **Week 3 of the Winter 2022 quarter** on Jan. 18, 2022 (click to the next week on the Google Calendar below to see the weekly hours).
 <!--and others outside [Bytes cafe](https://campusmap.ucr.edu/?find=Bytes) (the cafe on the ground level of Winston Chung Hall).-->
 
 ### CS 10A, 10B, 10C Calendar
