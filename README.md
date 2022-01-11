@@ -30,19 +30,19 @@ Your friendly neighborhood ULAs are ready to help! Just drop in to one of their 
 
 ### Program Overview
 
-The UCR CS ULA program is launching in Fall 2021. The goals of the program are to:
+The UCR CS ULA program started in Fall 2021. The goals of the program are to:
 - improve the learning experience of students in core CS courses
 - build a sense of community amongst undergraduate students
 - create a supportive environment for underrepresented groups in CS
 
 Towards this, students will be hired and trained as undergraduate learning assistants (ULAs) to act as peer tutors for selected CSE classes.
-ULAs will provide open "help desk" hours at a specific location (TBD) in Winston Chung Hall, and assist students with course content, homeworks, labs, etc.
+ULAs will provide open "help desk" hours at a specific location (TBD) in Winston Chung Hall, or online through Zoom, and assist students with course content, homeworks, labs, etc.
 
 The UCR CS ULA program is managed by Prof. Jiasi Chen with help from Profs. Paea LePendu, Mariam Salloum, Tamar Shinar, and Yihan Sun.
 
 
 ### Updates
-
+- **Jan. 11, 2022:** ULA help desk hours are posted for Winter 2022! (starting in Week 3 on Jan. 18, 2022) Due to the campus closure, all ULA hours will be held online through Zoom, until campus re-opens in Week 5.
 - **Sept. 30, 2021:** ULA schedules are posted above, starting Oct. 4! ULA hours will be held outside Bytes cafe, or online through Zoom. <span style="color:magenta">Software is in purple</span>, <span style="color:blue">algorithms is in blue</span>, and <span style="color:orange">computer systems is in orange</span>.
 - **Sept. 21, 2021:** ULA help desk sessions will start in week 2 of Fall'21. Keep checking the calendar below for updates on when ULAs will be staffing the help desk.
 - **Aug. 5, 2021:** We are currently reviewing applications and expect to send interview invitations within the next few days. Thanks for your patience, and stay cool!
