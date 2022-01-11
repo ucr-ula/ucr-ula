@@ -59,7 +59,9 @@ The UCR CS ULA program is managed by Prof. Jiasi Chen with help from Profs. Paea
 | ![Image of Gabriel](images/gabriel.jpg)            | **Gabriel**: Hi everyone, I'm Gabriel Rueals, a junior at UCR. I'm a CS major, and I wanted to become a tutor because I'm interested in being a professor myself one day and this seemed like a good place to start. I'm into a wide genre of video games and love pizza.        |
 | ![Image of Joshua](images/joshua.jpeg)            | **Joshua**: Hi! My name is Joshua Candelaria and I'm a sophomore computer science major. I wanted to be a ULA because I enjoy teaching and helping others, and I have a passion for what we're learning in these classes. A random fact about me is that I am a huge basketball nerd.         |
 |  ![Image of Taneesha](images/taneesha.jpg)            | **Taneesha**: I am a Computer Science Major. This is my second year at UCR, so I am a sophomore. I decided to join the ULA because I understand the feeling of being lost and hesitating to reach out for help, and all we need is reassurance and a little help to discover our potential. I love helping people with the resources that I have. A random fact about me is that I love eating spicy food and challenging myself to eat the spiciest that I can get. I am also a huge fan of the boyband BTS! |
-<!--| ![Image of Yuta](images/yuta.jpg)            | **Yuta**: My major is Computer Science, and I'm a first year Master's student. I joined the ULA program because I really like helping people and seeing them succeed! I look forward to seeing you all! A random fact is I used to do a lot of Japanese Archery, and I was also selected as part of Team USA for the third world cup!       | -->
+<!--
+| ![Image of Yuta](images/yuta.jpg)            | **Yuta**: My major is Computer Science, and I'm a first year Master's student. I joined the ULA program because I really like helping people and seeing them succeed! I look forward to seeing you all! A random fact is I used to do a lot of Japanese Archery, and I was also selected as part of Team USA for the third world cup!       |
+-->
 
 
 <!--
