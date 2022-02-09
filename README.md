@@ -41,6 +41,7 @@ The UCR CS ULA program is managed by Prof. Jiasi Chen with help from Profs. Paea
 
 
 ### Updates
+- **Feb. 9, 2022:** Welcome to Celvin, our newest ULA for CS111/141! Celvin started a few weeks ago; you can read his bio below.
 - **Jan. 11, 2022:** ULA help desk hours are posted for Winter 2022! (starting in Week 3 on Jan. 19, 2022) Due to the campus closure, all ULA hours will be held online through Zoom until further notice.
 - **Sept. 30, 2021:** ULA schedules are posted above, starting Oct. 4! ULA hours will be held outside Bytes cafe, or online through Zoom. <span style="color:magenta">Software is in purple</span>, <span style="color:blue">algorithms is in blue</span>, and <span style="color:orange">computer systems is in orange</span>.
 - **Sept. 21, 2021:** ULA help desk sessions will start in week 2 of Fall'21. Keep checking the calendar below for updates on when ULAs will be staffing the help desk.
