@@ -6,7 +6,7 @@
 - <span style="color:blue">Algorithms: CS 111, 141 </span>
 - <span style="color:orange">Computer systems: CS 61 </span>
 
-Your friendly neighborhood ULAs are ready to help! Just drop in to one of their help desk hours listed in the Calendar below with any questions you have. **It's free, and no advance registration required.** Some sessions are held online through Zoom and others in <A HREF="images/chung-map_129.png" target="_blank">Winston Chung Hall 129</A>, and will start in **Week 3 of the Fall 2022 quarter**.
+Your friendly neighborhood ULAs are ready to help! Just drop in to one of their help desk hours listed in the Calendar below with any questions you have. **It's free, and no advance registration required.** Some sessions are held online through Zoom and others in <A HREF="images/chung-map_129.png" target="_blank">Winston Chung Hall 129</A>, and will start in **Week 2 of the Fall 2022 quarter** (Oct. 3).
 
 
 
@@ -63,7 +63,7 @@ The UCR CS ULA program is managed by Prof. Jiasi Chen with help from Profs. Paea
 
 
 ### Updates
-- **Sept. 19, 2022:** Welcome to a new school year! Applications now open for Fall 2022 tutors. Tutoring will be in week 3 of the quarter.
+- **Sept. 19, 2022:** Welcome to a new school year! Applications now open for Fall 2022 tutors. Tutoring will begin in week 2 of the quarter (Oct. 3).
 - **Feb. 9, 2022:** Welcome to Celvin, our newest ULA for CS111/141! Celvin started a few weeks ago; you can read his bio below.
 - **Jan. 11, 2022:** ULA help desk hours are posted for Winter 2022! (starting in Week 3 on Jan. 19, 2022) Due to the campus closure, all ULA hours will be held online through Zoom until further notice.
 - **Sept. 30, 2021:** ULA schedules are posted above, starting Oct. 4! ULA hours will be held outside Bytes cafe, or online through Zoom. <span style="color:magenta">Software is in purple</span>, <span style="color:blue">algorithms is in blue</span>, and <span style="color:orange">computer systems is in orange</span>.
