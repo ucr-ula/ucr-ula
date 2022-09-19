@@ -61,7 +61,7 @@ The UCR CS ULA program is managed by Prof. Jiasi Chen with help from Profs. Paea
 |  ![Image of Taneesha](images/taneesha.jpg)            | **Taneesha**: I am a Computer Science Major. This is my second year at UCR, so I am a sophomore. I decided to join the ULA because I understand the feeling of being lost and hesitating to reach out for help, and all we need is reassurance and a little help to discover our potential. I love helping people with the resources that I have. A random fact about me is that I love eating spicy food and challenging myself to eat the spiciest that I can get. I am also a huge fan of the boyband BTS! |
 
 
-<!--
+
 ### We're Hiring!
 
 We are currently hiring ULAs for the following topic areas:
@@ -76,14 +76,14 @@ Strong applicants will be those who have done well in their classes, have good i
 
 ULAs will have shifts in the help desk room (TBD in Winston Chung Hall), and tutor any drop-in students with questions about the course. ULAs will work for approximately <span style="color:red">10 hours/week</span>, broken up into 2-3 shifts (exact schedule TBD based on the ULAs' individual availability). The pay rate for ULAs is expected to be around <span style="color:red">$16-17/h</span>, commensurate with other tutoring programs on campus.
 
-If selected, ULAs must enroll in CS190: Apprentice Teaching for Undergraduates in Fall'21. This will be a weekly 1-hour seminar on computer science education worth<span style="color:red"> 2 credits, taken S/NC</span>, and will discuss current best practices for CS education. It will be led by Prof. Chen and modeled on similar courses (e.g., at [UCSB](https://ucsb-teaching-cs.github.io/w21/)).
+If selected, ULAs must enroll in CS189: Apprentice Teaching for Undergraduates in Fall'22. This will be a weekly 1-hour seminar on computer science education worth<span style="color:red"> 2 credits, taken S/NC</span>, and will discuss current best practices for CS education. It will be led by Prof. Chen and modeled on similar courses (e.g., at [UCSB](https://ucsb-teaching-cs.github.io/w21/)).
 
 ### Application Process
 
-1. Applications are now closed! **Deadline: Friday July 16, 2021**. The application form requests basic biographical information, a copy of your transcript, and several short-answer questions.
-2. Selected applicants will be contacted for a brief (30-minute) video interview, about 1 week after the application closes. The applicant will be requested to prepare a 5-minute teaching demo on a topic given in advance.
+1. Please fill out the <A HREF="https://forms.gle/WYSFi7v8jQijnHPh7">application form</A>. **Deadline: Monday, Sept. 26, 2022**. The application form requests basic biographical information, a copy of your transcript, and several short-answer questions.
+2. Selected applicants will be contacted for a brief (30-minute) video interview, about 1 week after the application closes. The applicant will be requested to prepare a 5-minute teaching demo, on a topic given in advance.
 
--->
+
 
 ### Contact
 
