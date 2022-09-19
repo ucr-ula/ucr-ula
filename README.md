@@ -47,7 +47,7 @@ The UCR CS ULA program is managed by Prof. Jiasi Chen with help from Profs. Paea
 - **Sept. 21, 2021:** ULA help desk sessions will start in week 2 of Fall'21. Keep checking the calendar below for updates on when ULAs will be staffing the help desk.
 
 
-### We're Hiring!
+## We're Hiring!
 
 We are currently hiring ULAs for the following topic areas:
 
@@ -57,20 +57,20 @@ We are currently hiring ULAs for the following topic areas:
 
 Strong applicants will be those who have done well in their classes, have good interpersonal skills, and are enthusiastic about tutoring/mentoring. Preference will be given to those who have taken the classes at UCR.
 
-## ULA Responsibilities
+### ULA Responsibilities
 
 ULAs will have shifts in the help desk room (TBD in Winston Chung Hall), and tutor any drop-in students with questions about the course. ULAs will work for approximately <span style="color:red">10 hours/week</span>, broken up into 2-3 shifts (exact schedule TBD based on the ULAs' individual availability). The pay rate for ULAs is expected to be around <span style="color:red">$16-17/h</span>, commensurate with other tutoring programs on campus.
 
 If selected, ULAs must enroll in CS189: Apprentice Teaching for Undergraduates in Fall'22. This will be a weekly 1-hour seminar on computer science education worth<span style="color:red"> 2 credits, taken S/NC</span>, and will discuss current best practices for CS education. It will be led by Prof. Chen and modeled on similar courses (e.g., at [UCSB](https://ucsb-teaching-cs.github.io/w21/)).
 
-## Application Process
+### Application Process
 
 1. Please fill out the <A HREF="https://forms.gle/WYSFi7v8jQijnHPh7">application form</A>. **Deadline: Monday, Sept. 26, 2022**. The application form requests basic biographical information, a copy of your transcript, and several short-answer questions.
 2. Selected applicants will be contacted for a brief (30-minute) video interview, about 1 week after the application closes. The applicant will be requested to prepare a 5-minute teaching demo, on a topic given in advance.
 
 
 
-### Fall 2022 ULAs (so far)
+## Fall 2022 ULAs (so far)
 
 | Picture            | Name |
 | ----------- | ----------- |
