@@ -1,12 +1,12 @@
-## UCR CSE Undergraduate Learning Assistants (Spring 2022)
+## UCR CSE Undergraduate Learning Assistants (Fall 2022)
 
 ### Are you an undergrad who wants help in one of these CSE courses?
 
-- <span style="color:magenta">Software: CS 10A, 10B, 10C </span> (formerly known as CS 10, 12, 14)
+- <span style="color:magenta">Software: CS 10A, 10B, 10C </span>
 - <span style="color:blue">Algorithms: CS 111, 141 </span>
 - <span style="color:orange">Computer systems: CS 61 </span>
 
-Your friendly neighborhood ULAs are ready to help! Just drop in to one of their help desk hours listed in the Calendar below with any questions you have. **It's free, and no advance registration required.** Sessions are held online through Zoom or outside [Bytes cafe](https://campusmap.ucr.edu/?find=Bytes) (the cafe on the ground level of Winston Chung Hall), and will start in **Week 3 of the Spring 2022 quarter** on April 11, 2022.
+Your friendly neighborhood ULAs are ready to help! Just drop in to one of their help desk hours listed in the Calendar below with any questions you have. **It's free, and no advance registration required.** Some sessions are held online through Zoom and others in <A HREF="images/chung-map_129.png" target="_blank">Winston Chung Hall 129</A>, and will start in **Week 3 of the Fall 2022 quarter**.
 
 ### CS 10A, 10B, 10C Calendar
 
@@ -47,13 +47,12 @@ The UCR CS ULA program is managed by Prof. Jiasi Chen with help from Profs. Paea
 - **Sept. 21, 2021:** ULA help desk sessions will start in week 2 of Fall'21. Keep checking the calendar below for updates on when ULAs will be staffing the help desk.
 - **Aug. 5, 2021:** We are currently reviewing applications and expect to send interview invitations within the next few days. Thanks for your patience, and stay cool!
 
-### Spring 2022 ULAs
+### Fall 2022 ULAs (so far)
 
 | Picture            | Name |
 | ----------- | ----------- |
 |  ![Image of Aaron](images/aaron.jpg)           | **Aaron**: Hi! I'm Aaron, a senior in computer science at UCR. I'm graduating in the class of 2022 but plan on getting my masters degree in 2023. Even though I'm a senior, this year is my first year physically on campus, which will certainly be lots of fun! I decided to be a ULA because I find myself helping other students in my classes all the time. I seem to have figured out this whole college thing by now, so I want to use my knowledge to pay it forward to anyone willing to lend an ear. My random fact is that I'm a fanatic for japanese arcade games! I love to go Round1 after class and play Dance Dance Revolution and Beatmania all night!        |
-| ![Image of Brij](images/brij.jpg)      |  **Brij**: Hi! My name's Brij and I’m a Junior studying Computer Science. I wanted to be a ULA, because I really like to teach and see the “spark” in people’s eyes when they finally understand something. I also have some prior tutoring experience, and really enjoyed it, so wanted to give it another shot in college. A random fact about me is that I can solve a Rubiks cube in under a minute.       |
-|  ![Image of Celvin](images/celvin.jpeg)           | **Celvin**: Hello everyone! My name is Celvin (pronounced Selvin).  I am a first year graduate Computer Science student at UCR and I will be graduating this Spring. Teaching and mentoring has always been a passion of mine. For about five years, I taught high school students how to play percussion instruments, specifically for marching band. Since I am leaving UCR soon, I wanted to leave my imprint on the community with something that I am passionate about…teaching! This is why I decided to become a ULA. A random fact about me is that (as you may have guessed), I love playing drums!    |
+<!--| ![Image of Brij](images/brij.jpg)      |  **Brij**: Hi! My name's Brij and I’m a Junior studying Computer Science. I wanted to be a ULA, because I really like to teach and see the “spark” in people’s eyes when they finally understand something. I also have some prior tutoring experience, and really enjoyed it, so wanted to give it another shot in college. A random fact about me is that I can solve a Rubiks cube in under a minute.       |-->
 |  ![Image of Cody](images/cody.PNG)           | **Cody**: I am Cody, a second year computer science major. I am excited to be a ULA because learning to solve problems individually is my passion, so in my freshman year, I loved explaining my strategies to learn and succeed in any class while helping my friends with specific classes. A fun fact about me is that I am learning Hindi!       |
 | ![Image of Diane](images/diane.jpg)            | **Diane**: I am a third year computer science major and I wanted to be a ULA because helping people is lots of fun and I was in the same boat before as well! A random fact about me is that my hearing is not very good so one of the words I most often say is "huh".       |
 | ![Image of Edgar](images/edgar.jpg)            | **Edgar**: My name is Edgarventura, but I usually only go by Edgar. I'm a second year Computer Science major who upon finding himself lost trying to navigate college life, found himself being helped by all kinds of people such as professors, counselors, and even other students. Which is why I really wanted to become a ULA, because I wanted nothing more than to return a little bit of the kindness I received back into the UCR community. A little fun fact about myself is that over the pandemic I began teaching myself how to play the harmonica, and so far I've been enjoying it quite a lot!        |
