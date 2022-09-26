@@ -46,7 +46,7 @@ If selected, ULAs must enroll in CS189: Apprentice Teaching for Undergraduates i
 
 ### Application Process
 
-1. Please fill out the <A HREF="https://forms.gle/WYSFi7v8jQijnHPh7">application form</A>. **Deadline: Monday, Sept. 26, 2022**. The application form requests basic biographical information, a copy of your transcript, and several short-answer questions.
+1. Please fill out the <A HREF="https://forms.gle/WYSFi7v8jQijnHPh7">application form</A>. **Deadline: ~~Monday, Sept. 26~~ Friday Sept. 30, 2022**. The application form requests basic biographical information, a copy of your transcript, and several short-answer questions.
 2. Selected applicants will be contacted for a brief (30-minute) video interview, about 1 week after the application closes. The applicant will be requested to prepare a 5-minute teaching demo, on a topic given in advance.
 
 ## Program Overview
