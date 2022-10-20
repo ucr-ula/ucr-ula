@@ -5,6 +5,7 @@
 - <span style="color:magenta">Software: CS 10A, 10B, 10C </span>
 - <span style="color:blue">Algorithms: CS 111, 141 </span>
 - <span style="color:orange">Computer systems: CS 61 </span>
+- <span style="color:peach">Software construction: CS 100 </span>
 
 Your friendly neighborhood ULAs are ready to help! Just drop in to one of their help desk hours listed in the Calendar below with any questions you have. **It's free, and no advance registration required.** Some sessions are held online through Zoom and others in <A HREF="images/chung-map_129.png" target="_blank">Winston Chung Hall 129</A>, and will start in **Week 2 of the Fall 2022 quarter** (Oct. 3).
 
@@ -28,7 +29,13 @@ Your friendly neighborhood ULAs are ready to help! Just drop in to one of their 
 
 &nbsp;
 
-## We're Hiring!
+### CS 100 Calendar
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&showPrint=0&mode=WEEK&showTabs=0&showCalendars=0&src=Y19iYjM0ODU3MjU4ZTNhOWRjMTFjMzAxZThhZjJlNDQ3OTY2MWYzMTY3YjdlZTMyYzA0YThmNmVjYWM1OTA4MzIwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23009688" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+&nbsp;
+
+<!-- ## We're Hiring!
 
 We are currently hiring ULAs for the following topic areas:
 
@@ -48,6 +55,7 @@ If selected, ULAs must enroll in CS189: Apprentice Teaching for Undergraduates i
 
 1. Please fill out the <A HREF="https://forms.gle/WYSFi7v8jQijnHPh7">application form</A>. **Deadline: ~~Monday, Sept. 26~~ Friday Sept. 30, 2022**. The application form requests basic biographical information, a copy of your transcript, and several short-answer questions.
 2. Selected applicants will be contacted for a brief (30-minute) video interview, about 1 week after the application closes. The applicant will be requested to prepare a 5-minute teaching demo, on a topic given in advance.
+--> 
 
 ## Program Overview
 
