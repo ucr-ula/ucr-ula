@@ -7,7 +7,7 @@
 - <span style="color:orange">Computer systems: CS 61 </span>
 - <span style="color:green">Software construction: CS 100 </span>
 
-Your friendly neighborhood ULAs are ready to help! Just drop in to one of their help desk hours listed in the Calendar below with any questions you have. **It's free, and no advance registration required.** Some sessions are held online through Zoom and others in <A HREF="images/chung-map_129.png" target="_blank">Winston Chung Hall 129</A>, and will start in **Week 2 of the Fall 2022 quarter** (Oct. 3).
+Your friendly neighborhood ULAs are ready to help! Just drop in to one of their help desk hours listed in the Calendar below with any questions you have. **It's free, and no advance registration required.** Some sessions are held online through Zoom and others in <A HREF="images/chung-map_129.png" target="_blank">Winston Chung Hall 129</A>, and will start in **Week 2 of the Winter 2023 quarter** (Jan. 16, 2023).
 
 
 
@@ -83,16 +83,18 @@ The UCR CS ULA program is managed by Prof. Jiasi Chen with help from Profs. Paea
 
 
 
-## Fall 2022 ULAs (so far)
+## Winter 2023 ULAs
 
 | Picture            | Name |
 | ----------- | ----------- |
-|  ![Image of Aaron](images/aaron.jpg)           | **Aaron**: Hi! I'm Aaron, a senior in computer science at UCR. I'm graduating in the class of 2022 but plan on getting my masters degree in 2023. Even though I'm a senior, this year is my first year physically on campus, which will certainly be lots of fun! I decided to be a ULA because I find myself helping other students in my classes all the time. I seem to have figured out this whole college thing by now, so I want to use my knowledge to pay it forward to anyone willing to lend an ear. My random fact is that I'm a fanatic for japanese arcade games! I love to 
 |  ![Image of Cody](images/cody.PNG)           | **Cody**: I am Cody, a second year computer science major. I am excited to be a ULA because learning to solve problems individually is my passion, so in my freshman year, I loved explaining my strategies to learn and succeed in any class while helping my friends with specific classes. A fun fact about me is that I am learning Hindi!       |
 | ![Image of Diane](images/diane.jpg)            | **Diane**: I am a third year computer science major and I wanted to be a ULA because helping people is lots of fun and I was in the same boat before as well! A random fact about me is that my hearing is not very good so one of the words I most often say is "huh".       |
 | ![Image of Edgar](images/edgar.jpg)            | **Edgar**: My name is Edgarventura, but I usually only go by Edgar. I'm a second year Computer Science major who upon finding himself lost trying to navigate college life, found himself being helped by all kinds of people such as professors, counselors, and even other students. Which is why I really wanted to become a ULA, because I wanted nothing more than to return a little bit of the kindness I received back into the UCR community. A little fun fact about myself is that over the pandemic I began teaching myself how to play the harmonica, and so far I've been enjoying it quite a lot!        |
 | ![Image of Gabriel](images/gabriel.jpg)            | **Gabriel**: Hi everyone, I'm Gabriel, a junior at UCR. I'm a CS major, and I wanted to become a tutor because I'm interested in being a professor myself one day and this seemed like a good place to start. I'm into a wide genre of video games and love pizza.        |
 | ![Image of Joshua](images/joshua.jpeg)            | **Joshua**: Hi! My name is Joshua and I'm a sophomore computer science major. I wanted to be a ULA because I enjoy teaching and helping others, and I have a passion for what we're learning in these classes. A random fact about me is that I am a huge basketball nerd.         |
+| ![Image of Minsoo](images/minsoo.jpg)            | **Minsoo**: Hi! I'm Minsoo, a third year computer science major at UCR. I wanted to be a part of ULA to provide the same help I received when taking the ULA-supported classes as a freshmen/sophomore. I also love sharing tips and strategies I used to get by tough classes! A fun fact about me is that I recently started bouldering and it hurts to type on my keyboard :(        |
+| ![Image of Nathan](images/nathan.jpg)            | **Nathan**: Hello! My name is Nathan and I'm a third year computer science major. I want to become a ULA because I enjoy teaching about technical topics. I also enjoy talking through and explaining problems. A fun fact about me is that I love playing in cybersecurity competitions.        |
+| ![Image of Samarth](images/samarth.jpg)            | **Samarth**: Hey! My name is Samarth, and I am a third year data science major for ULA. I wanted to be a ULA because I love learning and understanding computer science topics, and I think this is a great opportunity to pass on what I know and problem solve with anybody who is looking for help in their classes. A fun fact about me is that I play 4 instruments, and my favorite one to play is the Sousaphone!         |
 |  ![Image of Taneesha](images/taneesha.jpg)            | **Taneesha**: I am a Computer Science Major. This is my second year at UCR, so I am a sophomore. I decided to join the ULA because I understand the feeling of being lost and hesitating to reach out for help, and all we need is reassurance and a little help to discover our potential. I love helping people with the resources that I have. A random fact about me is that I love eating spicy food and challenging myself to eat the spiciest that I can get. I am also a huge fan of the boyband BTS! |
 
 
